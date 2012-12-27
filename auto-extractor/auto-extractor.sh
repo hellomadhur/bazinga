@@ -1,0 +1,1 @@
+java -cp auto-extractor-1.0.0-jar-with-dependencies.jar com.expedia.App
